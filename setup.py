@@ -14,7 +14,7 @@ setup(
     description="Challenge DIO Bootcamp",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ieda-Barreto/simple-package-template.git"
+    url="https://github.com/Ieda-Barreto/image_processing.git"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
